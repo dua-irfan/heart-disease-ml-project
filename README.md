@@ -46,12 +46,13 @@ Random Forest Classifier performed the best among all models and was selected as
 - Joblib
 
 ---
-
-## How to Run the Project
+##  How to Run the Project
 
 ### 1. Install dependencies
+pip install -r requirements.txt
 
 ### 2. Run Streamlit app
+streamlit run app.py
 
 ---
 
